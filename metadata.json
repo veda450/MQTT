@@ -1,0 +1,6 @@
+{
+  "name": "Edge MQTT Access Network Benchmarking Lab",
+  "description": "Interactive lab guide, live network telemetry simulator, script generator, and comparative analysis workbench for Edge Computing Case Study 4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
